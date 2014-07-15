@@ -3,7 +3,7 @@
 
 ### Preview
 
-It looks like this:
+It looks like this (rotates images every 30 seconds):
 ![](http://i.imgur.com/sqWNswH.jpg)
 
 ### Install
