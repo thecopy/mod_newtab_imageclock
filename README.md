@@ -4,7 +4,7 @@
 ### Preview
 
 It looks like this:
-![](http://d.pr/i/azYW+)
+![](http://i.imgur.com/sqWNswH.jpg)
 
 ### Install
 
@@ -12,8 +12,10 @@ It looks like this:
  - In the input box type:
   
   ```
-  github:RobinMalfait/mod_newtab_clock
+  github:thecopy/mod_newtab_imageclock
   ```
   
 
 ### Done, hope you enjoy this :)
+
+Forked from https://github.com/RobinMalfait/mod_newtab_clock
